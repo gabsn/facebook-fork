@@ -1,0 +1,53 @@
+.miniature {
+	width: 25%;
+	line-height: 20vw;
+	text-align: center;
+	display: inline-block;
+}
+
+.miniature img {
+	max-height: 20vw;
+	max-width: 90%;
+	vertical-align: middle;
+}
+
+.image_container {
+	text-align: center;
+}
+
+.hd {
+	max-height: 48vw;
+}
+
+.hd img {
+	max-height: 48vw;
+	margin: 2px;
+}
+
+html {
+	background-color: #F3F5F5;
+}
+
+.arrows {
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+
+.arrows img {
+	margin: 5px;
+	height: 5vw;
+}
+
+a {
+	color: #406FEA;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #406FEA;
+	text-decoration: underline;
+}
+
+
+
